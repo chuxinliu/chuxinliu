@@ -1,16 +1,30 @@
-## Hi there 👋
+# Chuxin Liu, PhD
 
-<!--
-**chuxinliu/chuxinliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Quantitative Modeling Senior Associate at JPMorgan.
 
-Here are some ideas to get you started:
+## Tech Stack (including links to my projects repo) 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Languages & Tools: Python, Jupyter Notebook, SQL, Linux, Git
+* Machine Learning: 
+  - Supervised: [OLS](https://github.com/chuxinliu/ECO4000), Logistic regression, XGBoost 
+  - Time Series: ARIMA, VAR, [Error Correction Model](https://github.com/chuxinliu/error_correction_model)
+  - Deep Learning: [PyTorch, Transformers](https://github.com/shefalishr95/Build-a-Transformer-from-Scratch)
+  - Unsupervised: K-means, PCA
+* Causal Inference: 
+  - Econometric Methods: DiD, RDD, IV, Synthetic Control, PSM
+  - ML Methods: DoubleML, Generalized Random Forests
+* GenAI & LLM:
+  - Prompt Engineering: Chain-of-Thought, Few-shot Learning
+  - RAG Implementation: LangChain, Vector DBs
+* Visualization:
+  - Matplotlib, Plotly and Dash, GeoPandas, NetworkX
+  
+## Professional Experience 💼
+
+* Quantitative Modeling Senior Associate at JPMorgan
+* Applied Scientist at Zillow
+* PhD in Economics
+
+## Connect 🔗
+
+* LinkedIn: [Chuxin Liu](https://www.linkedin.com/in/chuxin-liu/)

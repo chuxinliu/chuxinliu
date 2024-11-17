@@ -1,6 +1,6 @@
 # Chuxin Liu, PhD
 
-I am a Quantitative Modeling Senior Associate at JPMorgan.
+I am a Quantitative Modeling Senior Associate at JPMorgan. Previous Applied Scientist at Zillow. 
 
 ## Tech Stack (including links to my projects repo) 🛠️
 
@@ -18,13 +18,3 @@ I am a Quantitative Modeling Senior Associate at JPMorgan.
   - RAG Implementation: LangChain, Vector DBs
 * Visualization:
   - Matplotlib, Plotly and Dash, GeoPandas, NetworkX
-  
-## Professional Experience 💼
-
-* Quantitative Modeling Senior Associate at JPMorgan
-* Applied Scientist at Zillow
-* PhD in Economics
-
-## Connect 🔗
-
-* LinkedIn: [Chuxin Liu](https://www.linkedin.com/in/chuxin-liu/)

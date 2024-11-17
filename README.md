@@ -1,6 +1,6 @@
 ## Chuxin Liu, PhD
 I am a Quantitative Modeling Senior Associate at JPMorgan. Previous Applied Scientist at Zillow. 
-### Tech Stack (including links to my projects repo) 🛠️
+### Tech Stack 🛠️ (including links to my projects repo)
 
 * **Languages & Tools**: Python, Jupyter Notebook, SQL, Linux, Git
 * **Machine Learning**: 
